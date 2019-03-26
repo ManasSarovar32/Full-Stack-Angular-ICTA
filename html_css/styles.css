@@ -1,0 +1,10 @@
+body{
+    background-image: url('gr.jpg');
+}
+table{
+    background: white;
+    border: 2px solid red;
+}
+.myButton{
+    background: yellow;
+}
